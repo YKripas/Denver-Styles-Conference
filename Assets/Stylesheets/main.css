@@ -59,3 +59,11 @@ Grid
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+/*Creating a class that will serve as a container for elements
+*/
+.container {
+	margin: 0 auto;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 960px;
+}
