@@ -130,3 +130,11 @@ Primary header
 	padding: 40px 0 22px 0;
 	float: left;
 }
+/*
+==========================
+Primary footer
+===========================
+*/
+.primary-footer small {
+	float: left;
+}
