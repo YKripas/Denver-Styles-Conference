@@ -120,3 +120,11 @@ Clearfix
 	clear: both;
 	*zoom: 1;
 }
+/*
+========================
+Primary header
+========================
+*/
+.logo {
+	float: left;
+}
